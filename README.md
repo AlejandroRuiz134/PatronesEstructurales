@@ -1,1 +1,1 @@
-# PatronesEstrcucturales
+# PatronesEstructurales
